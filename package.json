@@ -1,0 +1,26 @@
+{
+  "name": "atom-language-robotframework",
+  "version": "0.0.1",
+  "description": "Robot Framework language support in Atom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanlove/atom-language-robotframework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emanlove/atom-language-robotframework/issues"
+  },
+  "homepage": "https://github.com/emanlove/atom-language-robotframework#readme",
+  "keywords": [
+    "robotframework",
+    "atom"
+  ],
+  "contributors": [
+    "Fabio Zadrozny",
+    "Ed Manlove"
+  ],    
+  "license": "Apache-2.0"
+}
